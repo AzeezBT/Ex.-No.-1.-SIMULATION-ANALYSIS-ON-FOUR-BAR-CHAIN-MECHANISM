@@ -58,7 +58,7 @@
 
 
 ### Name: Azeez Ahamad
-### Register Number: 23003977
+### Register Number: 212223110046
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
